@@ -58,7 +58,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Enjoy playing against the unbeatable AI, and happy coding! If you have any questions or need further assistance, please open an issue or contact me at your-email@example.com.
+Enjoy playing against the unbeatable AI, and happy coding! If you have any questions or need further assistance, please open an issue or contact me at anwarmaaz123@gmail.com.
 
 ---
 
